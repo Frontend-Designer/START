@@ -1,3 +1,3 @@
-# 코딩 스터디
+# Learn coding
 
 ## [To Wiki](https://github.com/Frontend-Designer/START/wiki)
